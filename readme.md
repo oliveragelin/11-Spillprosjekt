@@ -2,7 +2,7 @@
 
 Todo:
 
-- Skisse
-- Klasser
-- BEvegelser
-- Miste liv/dø
+- [ ]Skisse
+- [ ]Klasser
+- [ ]Bevegelser
+- [ ]Miste liv/dø
